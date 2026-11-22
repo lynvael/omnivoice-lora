@@ -1,0 +1,46 @@
+{
+  "created": "2026-11-15T13:35:28+00:00",
+  "phrases_sha256": "d5110c09209182a115ca5e55c7f0b2c33a7c095819e63fc146faa43daac51b3c",
+  "seed": 1234,
+  "model": "k2-fsa/OmniVoice",
+  "lora_adapter": null,
+  "sim_primary": "max_over_refs",
+  "variants": {
+    "base_native": {
+      "instruct": "female, young adult",
+      "wer_pct": 4.46,
+      "S": 4,
+      "D": 1,
+      "I": 0,
+      "ref_words": 112,
+      "wer_verdict": "fail",
+      "sim_best_mean": 0.378117,
+      "sim_best_std": 0.070913,
+      "sim_best_ceiling": 0.606127,
+      "sim_centroid_mean": 0.320023,
+      "sim_centroid_std": 0.090982,
+      "sim_centroid_ceiling": 0.612105,
+      "audio_seconds_total": 40.92,
+      "flags": [
+        "p17:too_fast"
+      ]
+    },
+    "base_mita_tag": {
+      "instruct": "mita",
+      "wer_pct": 0.0,
+      "S": 0,
+      "D": 0,
+      "I": 0,
+      "ref_words": 112,
+      "wer_verdict": "pass",
+      "sim_best_mean": 0.27183,
+      "sim_best_std": 0.085727,
+      "sim_best_ceiling": 0.606127,
+      "sim_centroid_mean": 0.171304,
+      "sim_centroid_std": 0.079979,
+      "sim_centroid_ceiling": 0.612105,
+      "audio_seconds_total": 43.45,
+      "flags": []
+    }
+  }
+}

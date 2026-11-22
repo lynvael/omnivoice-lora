@@ -1,0 +1,311 @@
+{
+  "created": "2026-11-15T13:00:13+00:00",
+  "source": "data\\finetune\\manifest_train.jsonl",
+  "selection": {
+    "n": 60,
+    "seed": 42,
+    "method": "rows sorted by audio_path, then random.Random(seed).sample(rows, n)"
+  },
+  "refs": [
+    {
+      "id": "LocationDialogue_Location11_121",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location11_121.ogg",
+      "duration_s": 2.481
+    },
+    {
+      "id": "LocationDialogue_Location11_176",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location11_176.ogg",
+      "duration_s": 1.313
+    },
+    {
+      "id": "LocationDialogue_Location11_182",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location11_182.ogg",
+      "duration_s": 1.065
+    },
+    {
+      "id": "LocationDialogue_Location11_188",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location11_188.ogg",
+      "duration_s": 0.487
+    },
+    {
+      "id": "LocationDialogue_Location11_3",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location11_3.ogg",
+      "duration_s": 0.459
+    },
+    {
+      "id": "LocationDialogue_Location11_62",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location11_62.ogg",
+      "duration_s": 2.107
+    },
+    {
+      "id": "LocationDialogue_Location11_64",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location11_64.ogg",
+      "duration_s": 1.188
+    },
+    {
+      "id": "LocationDialogue_Location14_24",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location14_24.ogg",
+      "duration_s": 3.338
+    },
+    {
+      "id": "LocationDialogue_Location14_26",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location14_26.ogg",
+      "duration_s": 1.888
+    },
+    {
+      "id": "LocationDialogue_Location14_35",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location14_35.ogg",
+      "duration_s": 1.194
+    },
+    {
+      "id": "LocationDialogue_Location14_36",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location14_36.ogg",
+      "duration_s": 1.715
+    },
+    {
+      "id": "LocationDialogue_Location14_56",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location14_56.ogg",
+      "duration_s": 2.431
+    },
+    {
+      "id": "LocationDialogue_Location14_63",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location14_63.ogg",
+      "duration_s": 1.737
+    },
+    {
+      "id": "LocationDialogue_Location14_64",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location14_64.ogg",
+      "duration_s": 2.117
+    },
+    {
+      "id": "LocationDialogue_Location14_71",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location14_71.ogg",
+      "duration_s": 1.525
+    },
+    {
+      "id": "LocationDialogue_Location14_85",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location14_85.ogg",
+      "duration_s": 1.597
+    },
+    {
+      "id": "LocationDialogue_Location14_86",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location14_86.ogg",
+      "duration_s": 3.122
+    },
+    {
+      "id": "LocationDialogue_Location15_131",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location15_131.ogg",
+      "duration_s": 1.837
+    },
+    {
+      "id": "LocationDialogue_Location15_157",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location15_157.ogg",
+      "duration_s": 2.25
+    },
+    {
+      "id": "LocationDialogue_Location15_22",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location15_22.ogg",
+      "duration_s": 1.969
+    },
+    {
+      "id": "LocationDialogue_Location15_97",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location15_97.ogg",
+      "duration_s": 2.4
+    },
+    {
+      "id": "LocationDialogue_Location18_213",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location18_213.ogg",
+      "duration_s": 2.529
+    },
+    {
+      "id": "LocationDialogue_Location18_216",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location18_216.ogg",
+      "duration_s": 1.524
+    },
+    {
+      "id": "LocationDialogue_Location1_17",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location1_17.ogg",
+      "duration_s": 1.269
+    },
+    {
+      "id": "LocationDialogue_Location1_55",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location1_55.ogg",
+      "duration_s": 0.923
+    },
+    {
+      "id": "LocationDialogue_Location20_22",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location20_22.ogg",
+      "duration_s": 1.809
+    },
+    {
+      "id": "LocationDialogue_Location20_70",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location20_70.ogg",
+      "duration_s": 1.269
+    },
+    {
+      "id": "LocationDialogue_Location20_76",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location20_76.ogg",
+      "duration_s": 0.837
+    },
+    {
+      "id": "LocationDialogue_Location20_83",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location20_83.ogg",
+      "duration_s": 1.073
+    },
+    {
+      "id": "LocationDialogue_Location20_85",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location20_85.ogg",
+      "duration_s": 1.553
+    },
+    {
+      "id": "LocationDialogue_Location3_100",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_100.ogg",
+      "duration_s": 1.737
+    },
+    {
+      "id": "LocationDialogue_Location3_113",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_113.ogg",
+      "duration_s": 1.189
+    },
+    {
+      "id": "LocationDialogue_Location3_123",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_123.ogg",
+      "duration_s": 1.309
+    },
+    {
+      "id": "LocationDialogue_Location3_145",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_145.ogg",
+      "duration_s": 0.736
+    },
+    {
+      "id": "LocationDialogue_Location3_187",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_187.ogg",
+      "duration_s": 1.241
+    },
+    {
+      "id": "LocationDialogue_Location3_194",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_194.ogg",
+      "duration_s": 1.058
+    },
+    {
+      "id": "LocationDialogue_Location3_214",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_214.ogg",
+      "duration_s": 1.597
+    },
+    {
+      "id": "LocationDialogue_Location3_218",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_218.ogg",
+      "duration_s": 1.194
+    },
+    {
+      "id": "LocationDialogue_Location3_240",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_240.ogg",
+      "duration_s": 1.612
+    },
+    {
+      "id": "LocationDialogue_Location3_25",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_25.ogg",
+      "duration_s": 0.958
+    },
+    {
+      "id": "LocationDialogue_Location3_355",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_355.ogg",
+      "duration_s": 1.137
+    },
+    {
+      "id": "LocationDialogue_Location3_370",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_370.ogg",
+      "duration_s": 1.799
+    },
+    {
+      "id": "LocationDialogue_Location3_381",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_381.ogg",
+      "duration_s": 0.676
+    },
+    {
+      "id": "LocationDialogue_Location3_404",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_404.ogg",
+      "duration_s": 1.295
+    },
+    {
+      "id": "LocationDialogue_Location3_414",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_414.ogg",
+      "duration_s": 0.633
+    },
+    {
+      "id": "LocationDialogue_Location3_418",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_418.ogg",
+      "duration_s": 0.835
+    },
+    {
+      "id": "LocationDialogue_Location3_428",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_428.ogg",
+      "duration_s": 1.603
+    },
+    {
+      "id": "LocationDialogue_Location3_437",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_437.ogg",
+      "duration_s": 1.002
+    },
+    {
+      "id": "LocationDialogue_Location3_6",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_6.ogg",
+      "duration_s": 1.129
+    },
+    {
+      "id": "LocationDialogue_Location3_67",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location3_67.ogg",
+      "duration_s": 1.035
+    },
+    {
+      "id": "LocationDialogue_Location4_151",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location4_151.ogg",
+      "duration_s": 1.914
+    },
+    {
+      "id": "LocationDialogue_Location4_158",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location4_158.ogg",
+      "duration_s": 1.223
+    },
+    {
+      "id": "LocationDialogue_Location4_24",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location4_24.ogg",
+      "duration_s": 1.799
+    },
+    {
+      "id": "LocationDialogue_Location4_248",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location4_248.ogg",
+      "duration_s": 0.979
+    },
+    {
+      "id": "LocationDialogue_Location4_264",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location4_264.ogg",
+      "duration_s": 0.532
+    },
+    {
+      "id": "LocationDialogue_Location4_47",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location4_47.ogg",
+      "duration_s": 0.417
+    },
+    {
+      "id": "LocationDialogue_Location8_17",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location8_17.ogg",
+      "duration_s": 1.659
+    },
+    {
+      "id": "LocationDialogue_Location8_34",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location8_34.ogg",
+      "duration_s": 1.668
+    },
+    {
+      "id": "LocationDialogue_Location8_45",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location8_45.ogg",
+      "duration_s": 1.471
+    },
+    {
+      "id": "LocationDialogue_Location8_7",
+      "audio_path": "C:/develop/omnivoice-lora/data/finetune/audio/LocationDialogue_Location8_7.ogg",
+      "duration_s": 0.918
+    }
+  ]
+}

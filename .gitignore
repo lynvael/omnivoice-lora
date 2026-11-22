@@ -1,0 +1,8 @@
+/.venv/
+/data/
+/models_compact/
+/runs/
+/scripts/logs/
+/tmp/
+/vendor/
+/logs/

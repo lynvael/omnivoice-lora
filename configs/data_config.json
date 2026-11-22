@@ -1,0 +1,12 @@
+{
+  "train": [
+    {
+      "manifest_path": ["C:/develop/omnivoice-lora/data/finetune/shards/train/data.lst"]
+    }
+  ],
+  "dev": [
+    {
+      "manifest_path": ["C:/develop/omnivoice-lora/data/finetune/shards/dev/data.lst"]
+    }
+  ]
+}
